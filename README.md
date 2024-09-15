@@ -11,20 +11,21 @@ Entity Framework & SQL: Managing complex data and transactions
 Angular & Vue.js: Crafting dynamic and responsive front-end designs
 Docker & Kubernetes: Ensuring scalable and efficient containerized applications
 Azure & AWS: Deploying and managing applications in the cloud
-🚀 Professional Highlights:
 
+🚀 Professional Highlights:
 Digital Transformation Leader: Spearheaded the transition of legacy systems to modern .NET architectures in governmental and financial sectors, significantly improving operational efficiency and security.
 Innovative Problem Solver: Developed key components for payment gateways and regulatory systems, ensuring top-notch security and compliance.
 Team Mentor & Leader: Passionate about guiding teams through complex software lifecycle stages, from concept to deployment, while fostering an environment of learning and innovation.
-🌱 Currently Learning: I'm continuously enhancing my skills and am currently diving deeper into cloud services and infrastructure, focusing on AWS and advanced Kubernetes configurations.
+
+🌱 Currently Learning:
+I'm continuously enhancing my skills and am currently diving deeper into cloud services and infrastructure, focusing on AWS and advanced Kubernetes configurations.
 
 📫 Let’s Connect: Feel free to reach out to discuss technology, project collaborations, or exchange ideas!
 
-Skills:  C#, ASP.NET, MVC, Entity Framework, Docker, Kubernetes, Azure, AWS (Learning), Azure DevOps, CI/CD, Real-time Systems: SignalR, RabbitMQ, Angular, Vue.js, HTML5, CSS, JavaScript
+Skills:  C#, ASP.NET, MVC, Entity Framework, Docker, Kubernetes,  Azure DevOps, CI/CD, Real-time Systems: SignalR, RabbitMQ, Angular, Vue.js, HTML5, CSS, JavaScript
 
 - 🔭 I’m currently working on Mastering How I Create Scalable Webhook 
-- 🌱 I’m currently learning CKAD 
-
+- 🌱 I’m currently learning CKAD Azure, AWS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedaymanelalfy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedaymanelalfy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmedaymanalfy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@ahmedaymanelalfy)  
 
