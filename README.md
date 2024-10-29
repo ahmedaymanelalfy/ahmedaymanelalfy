@@ -24,7 +24,7 @@ I'm continuously enhancing my skills and am currently diving deeper into cloud s
 
 Skills:  C#, ASP.NET, MVC, Entity Framework, Docker, Kubernetes,  Azure DevOps, CI/CD, Real-time Systems: SignalR, RabbitMQ, Angular, Vue.js, HTML5, CSS, JavaScript
 
-- 🔭 Diving into [Microservices Architecture and Implementation on .NET](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotne) on Udemy.
+- 🔭 Diving into [Microservices Architecture and Implementation on .NET](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/) on Udemy.
 - 🌱 I’m currently learning CKAD Azure, AWS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedaymanelalfy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedaymanelalfy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmedaymanalfy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@ahmedaymanelalfy)  
